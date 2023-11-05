@@ -126,7 +126,9 @@ main p {
   width: 100%;
   aspect-ratio: 1.35/1;
 }
-
+.instagram-embeds {
+  margin: 30px 0;
+}
 .card {
   background: white;
   margin: 30px 0;
